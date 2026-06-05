@@ -1,0 +1,61 @@
+{
+  "denah": [
+    {
+      "jadwal_key": "\ud83c\udfac Avatar: The Way of Water|13:00",
+      "kursi_terisi": []
+    },
+    {
+      "jadwal_key": "\ud83d\udc80 The Nun II|13:30",
+      "kursi_terisi": [
+        "F6"
+      ]
+    },
+    {
+      "jadwal_key": "\ud83e\uddb8 Spider-Man: Across the Spider-Verse|14:30",
+      "kursi_terisi": []
+    },
+    {
+      "jadwal_key": "\ud83e\uddb8 Spider-Man: Across the Spider-Verse|20:00",
+      "kursi_terisi": [
+        "A2"
+      ]
+    },
+    {
+      "jadwal_key": "\ud83d\udc09 John Wick: Chapter 4|15:00",
+      "kursi_terisi": []
+    },
+    {
+      "jadwal_key": "\ud83e\uddb8 Spider-Man: Across the Spider-Verse|17:30",
+      "kursi_terisi": [
+        "A2"
+      ]
+    }
+  ],
+  "antrian": [
+    {
+      "nomor_antrian": "A001",
+      "nama": "musyfik",
+      "film": "\ud83d\udc80 The Nun II",
+      "jam_tayang": "13:30",
+      "kursi": "F6",
+      "waktu_pesan": "2026-06-05 10:26:06"
+    },
+    {
+      "nomor_antrian": "A002",
+      "nama": "Nailong",
+      "film": "\ud83e\uddb8 Spider-Man: Across the Spider-Verse",
+      "jam_tayang": "20:00",
+      "kursi": "A2",
+      "waktu_pesan": "2026-06-05 10:27:38"
+    },
+    {
+      "nomor_antrian": "A003",
+      "nama": "a",
+      "film": "\ud83e\uddb8 Spider-Man: Across the Spider-Verse",
+      "jam_tayang": "17:30",
+      "kursi": "A2",
+      "waktu_pesan": "2026-06-05 10:30:09"
+    }
+  ],
+  "nomor_berikutnya": 4
+}
