@@ -57,9 +57,9 @@ streamlit run frontend/app.py
 
 
 👥 Tim Pengembang
-- Aufa Nu'aim I. Z — [@AufaNiz01]
+- Fairuz Idzihar Iftiran — [@fayydzi]
 - Musyfiq Fakhruzzaman — [@musyfiq-mfiq]
-- Fairuz Idzihar Iftiran — [@]
+- Aufa Nu'aim I. Z — [@AufaNiz01]
 
 ⚙️ Teknologi
 
