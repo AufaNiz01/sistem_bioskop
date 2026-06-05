@@ -3,7 +3,6 @@ Bioskop Queue Management System
 Sistem ini merupakan aplikasi manajemen antrean dan pemesanan tiket bioskop yang dikembangkan menggunakan konsep Object-Oriented Programming (OOP). Pengguna dapat melakukan pemesanan tiket, memilih kursi melalui denah bioskop interaktif, serta melihat ketersediaan kursi secara real-time. Selain itu, sistem menyediakan fitur CRUD (Create, Read, Update, Delete) yang memungkinkan pengelolaan data pemesanan secara lengkap. Antarmuka aplikasi dibangun menggunakan Streamlit, sementara seluruh logika bisnis dan pengolahan data dikembangkan dengan Python.
 
 ✨ Fitur Unggulan
-
 - 🎫 **Manajemen Antrean FIFO** — Sistem antrean yang adil (First In, First Out)
 - 💺 **Denah Kursi Real-time** — Visualisasi kursi kosong/terisi dengan kode warna
 - 📊 **CRUD Lengkap** — Create, Read, Update, Delete data antrean
@@ -15,19 +14,18 @@ Sistem ini merupakan aplikasi manajemen antrean dan pemesanan tiket bioskop yang
 
 ```
 bioskop/
-├── backend/                 # Logika bisnis (OOP murni)
-│   ├── models.py           # User-Defined Data Structure
-│   ├── denah.py            # Manajemen denah kursi
-│   ├── manajemen.py        # CRUD & queue operations
-│   └── __init__.py         # Package initializer
+├── backend/                
+│   ├── models.py           
+│   ├── denah.py            
+│   ├── manajemen.py        
+│   └── __init__.py         
 ├── frontend/
-│   └── app.py              # Streamlit UI (tanpa logika bisnis)
+│   └── app.py              
 └── data/
-    └── bioskop_data.json   # Penyimpanan data otomatis
+    └── bioskop_data.json   
 ```
 
-## 🚀 Cara Menjalankan
-
+🚀 Cara Menjalankan
 ```bash
 # Clone repository
 git clone https://github.com/AufaNiz01/sistem_bioskop.git
@@ -42,7 +40,7 @@ pip install streamlit
 streamlit run frontend/app.py
 ```
 
-## 🧠 Konsep yang Diterapkan
+🧠 Konsep yang Diterapkan
 
 | Konsep | Implementasi |
 |--------|--------------|
