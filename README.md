@@ -33,7 +33,7 @@ bioskop/
 git clone https://github.com/AufaNiz01/sistem_bioskop.git
 
 # Masuk ke folder proyek
-cd sistem_bioskop
+cd sistem_bioskop/bioskoppp     <-- p nya 3 janlup!
 
 # Install dependencies
 pip install streamlit
