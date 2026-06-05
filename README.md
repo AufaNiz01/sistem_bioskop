@@ -1,6 +1,6 @@
 Bioskop Queue Management System
 
-> Sebuah sistem manajemen antrean bioskop berbasis **Object-Oriented Programming (OOP)** dengan denah kursi interaktif dan fitur CRUD penuh. Dibangun menggunakan **Streamlit** untuk frontend dan **Python murni** untuk backend logic.
+Sistem ini merupakan aplikasi manajemen antrean dan pemesanan tiket bioskop yang dikembangkan menggunakan konsep Object-Oriented Programming (OOP). Pengguna dapat melakukan pemesanan tiket, memilih kursi melalui denah bioskop interaktif, serta melihat ketersediaan kursi secara real-time. Selain itu, sistem menyediakan fitur CRUD (Create, Read, Update, Delete) yang memungkinkan pengelolaan data pemesanan secara lengkap. Antarmuka aplikasi dibangun menggunakan Streamlit, sementara seluruh logika bisnis dan pengolahan data dikembangkan dengan Python.
 
 ✨ Fitur Unggulan
 
